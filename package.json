@@ -1,5 +1,5 @@
 {
-  "name": "next-benchmark",
+  "name": "next-v13-minimal-bundler",
   "version": "0.1.0",
   "private": true,
   "scripts": {
@@ -8,8 +8,8 @@
     "dev": "next dev"
   },
   "dependencies": {
-    "@next/font": "latest",
-    "next": "latest",
+    "@next/font": "13.5.4",
+    "next": "13.5.4",
     "react": "^18.2.0",
     "react-dom": "^18.2.0",
     "swr": "^2.0.0"
